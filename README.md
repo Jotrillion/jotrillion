@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**Jotrillion/jotrillion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <Josaphat Ngandu aka Jotrillion>
 
-Here are some ideas to get you started:
+Hello, GitHub! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm <Jotrillion>, a student at Brigham Young University-Idaho interested in  such as: computer science, data science, web development, machine learning. Welcome to my GitHub profile!
+
+## About Me
+
+- I'm currently learning software development   ...
+- My goals are to create innovative solutions that solve the world problems. ...
+- Ask me about anthing concerning software development  ...
+
+## Technologies and Tools
+
+- Proficient in: python, c++, c#
+- Skills: Vscode and android studio
+
+## Let's Connect!
+
+- Here is my (https://www.linkedin.com/in/j-djany-elyon-llsmith-ngandu-llm-msc-mba-b7a10756?utm_source=share_via&utm_content=profile&utm_medium=member_android) profile
+- 
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
