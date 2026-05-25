@@ -3,7 +3,7 @@
 
 Hello, GitHub! 👋
 
-I'm <Jotrillion>, a student at Brigham Young University-Idaho interested in  such as: computer science, data science, web development, machine learning. Welcome to my GitHub profile!
+I'm Jotrillion, a student at Brigham Young University-Idaho interested in  such as: computer science, data science, web development, machine learning. Welcome to my GitHub profile!
 
 ## About Me
 
